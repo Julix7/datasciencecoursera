@@ -1,10 +1,12 @@
 ---
 title: "Hello World"
-author: "Yan Emma Xie"
+author: "Julix7"
 date: "5. November 2015"
-output: html_document
+output: GitHub md file
 ---
 
 ## This is a markdown file
+
+
 
 
